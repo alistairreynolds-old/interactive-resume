@@ -1,0 +1,29 @@
+{
+  "name": "1-portfolio",
+  "version": "1.0.0",
+  "description": "Project 1 for Udacity Front-end Web Dev course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madcabbage/1-portfolio-project"
+  },
+  "keywords": [
+    "udacity",
+    "portfolio"
+  ],
+  "author": "Alistair Reynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madcabbage/1-portfolio-project/issues"
+  },
+  "homepage": "https://github.com/madcabbage/1-portfolio-project",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "grunt-cli": "^0.1.13"
+  }
+}
